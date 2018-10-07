@@ -1,0 +1,3 @@
+rootProject.name = 'safeLong'
+
+include ':app'
